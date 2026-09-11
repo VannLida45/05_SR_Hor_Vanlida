@@ -35,8 +35,8 @@ def main():
             )
 
             print(document)
-
-        print("\nAnswer: ")
+        print("=========================================================================")
+        print("Answer: ")
         print(answer)
 
 
