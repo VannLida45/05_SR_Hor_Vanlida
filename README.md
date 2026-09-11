@@ -72,7 +72,7 @@ ollama pull nomic-embed-text
 
 ### 3. Install dependencies
 
-poetry install
+poetry install --no-root
 
 ### 4. Add documents
 
